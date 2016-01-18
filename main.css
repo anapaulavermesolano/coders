@@ -1,0 +1,36 @@
+.linea{
+	border: 2px solid white;
+	width: 100px;
+}
+img {
+	height: 400px;
+	width: 400px;
+}
+.big {
+	margin: 20px;
+	width: 1600px;
+}
+body {
+	background: url("https://sahilbansal896.files.wordpress.com/2015/01/cropped-77768-hd-color-wallpapers-full-hd-1080p-wallpaper-hd-widescreen-desktop.jpg");
+}
+.img {
+	display: inline-block;
+	margin: 15px;
+	position: relative;
+	border:3px solid white; 
+}
+p{
+	position: absolute;
+    top: 357px;
+    left: 260px;
+    width: 100%;
+    font-family: Arial;
+    color: white;
+}
+
+h1 {
+	color:white;
+	font-family: Arial;
+}
+
+
